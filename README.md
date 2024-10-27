@@ -13,3 +13,17 @@
 ### Tuplas
 
 ### Conjuntos
+
+### Diccionarios
+
+### Bucles For
+
+### Funciones
+
+### Módulos
+
+### POO
+
+### Programación Funcional
+
+#### Decoradores
