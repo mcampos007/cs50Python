@@ -26,4 +26,4 @@
 
 ### Programación Funcional
 
-#### Decoradores
+### Decoradores
